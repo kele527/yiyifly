@@ -12,6 +12,11 @@
   </head>
 
   <body>
+
+  <?php
+  
+  echo 'fffffffffff';
+  ?>
 哈哈哈哈
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
